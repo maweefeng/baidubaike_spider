@@ -1,0 +1,2 @@
+# baidubaike_spider
+基于scarpy的爬虫工具 对百度百科词条标题和简介的抓取
